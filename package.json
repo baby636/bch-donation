@@ -27,7 +27,7 @@
   },
   "repository": "Permissionless-Software-Foundation/bch-donation",
   "dependencies": {
-    "apidoc": "^0.25.0"
+    "apidoc": "^0.27.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
